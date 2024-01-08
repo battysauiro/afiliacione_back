@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>IOI</groupId>
-	<artifactId>my-inovations-app</artifactId>
+	<artifactId>my-afiliaciones-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>Interactive Online Innovations Application</name>
-	<description>tablero de cobros</description>
+	<name>afiliaciones</name>
+	<description>aplicacion para afiliar usuarios</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
